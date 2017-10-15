@@ -406,7 +406,7 @@ int main()
   //x1 = stoi(67888800);
   //x = dectobin(x1, 32);
   if(in == 1){
-  	m1 = stoi(220000001);
+  	m1 = stoi(230000001);
   	x1 = stoi(230000000);
   	tmp = dectobin(m1, 32);
   	x = dectobin(x1, 32);	
