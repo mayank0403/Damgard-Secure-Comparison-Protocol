@@ -3,6 +3,7 @@ Proof-of-concept implementation of Damgard et al. secure comparison protocol as 
 The code has been written in c++ with Pari c Library for number theoretic operations.<br/> <br/>
 
 Example Parameter values for running the protocol correctly - <br/>
+* Compile and run the file "Bidder.cpp"
 * First enter "1" to use the protocol in 32 bit mode.
 * Then input `l = 33`
 * Then input `t = 20`.<br/>
