@@ -6,4 +6,4 @@ Example Parameter values for running the protocol correctly - <br/>
 * First enter "1" to use the protocol in 32 bit mode.
 * Then input `l = 33`
 * Then input `t = 20`.<br/>
-You should now get one of the values in the output to be as "1" if `x1>m1`.
+You should now get one of the values in the output to be as "1" if `m1>x1`.
